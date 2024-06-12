@@ -1,6 +1,6 @@
-# PubSub System
+# Publisher-Subscriber System
 
-This project implements a simple Pub/Sub (Publisher/Subscriber) system in Java. The Pub/Sub system allows publishers to publish messages to specific topics, and subscribers to subscribe to those topics and receive the messages. This project demonstrates the basic concepts of the Pub/Sub architecture, including publishing messages, subscribing to topics, and broadcasting messages to all relevant subscribers.
+This project implements a simple (Publisher/Subscriber) system in Java. The system allows publishers to publish messages to specific topics, and subscribers to subscribe to those topics and receive the messages.
 
 ## Project Structure
 
